@@ -1,0 +1,31 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.imagen-mediana{
+    margin-left: 30px;
+    display: block;
+    width: 25%;
+    height: auto;
+}
+.imagen-pequena{
+    margin-left: 30px;
+    display: block;
+    width: 7%;
+    height: auto;
+}
+.imagen-grande{
+    margin-left: 30px;
+    display: block;
+    width: 50%;
+    height: auto;
+}
+h5{
+    margin-top: 10px;
+}
+h3{
+    color: green;
+    text-decoration: underline;
+}
+h4{
+    color: blue;
+}
